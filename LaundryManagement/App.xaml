@@ -1,0 +1,18 @@
+﻿<Application x:Class="LaundryManagement.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:vm="clr-namespace:LaundryManagement.ViewModels"
+             xmlns:views="clr-namespace:LaundryManagement.Views">
+
+    <Application.Resources>
+
+        <DataTemplate DataType="{x:Type vm:HomeLaundryViewModel}">
+            <views:HomeLaundryView/>
+        </DataTemplate>
+
+        <DataTemplate DataType="{x:Type vm:AddLaundryViewModel}">
+            <views:AddLaundryView/>
+        </DataTemplate>
+
+    </Application.Resources>
+</Application>

@@ -1,0 +1,20 @@
+D:\Mga sawi sa pag ibig\OfiangaSolutionIPT102\Data\bin\Debug\Data.dacpac
+D:\Mga sawi sa pag ibig\OfiangaSolutionIPT102\Data\bin\Debug\Data.dll
+D:\Mga sawi sa pag ibig\OfiangaSolutionIPT102\Data\bin\Debug\Data.pdb
+D:\Mga sawi sa pag ibig\OfiangaSolutionIPT102\Data\obj\Debug\Data.sqlproj.AssemblyReference.cache
+D:\Mga sawi sa pag ibig\OfiangaSolutionIPT102\Data\obj\Debug\Model.xml
+D:\Mga sawi sa pag ibig\OfiangaSolutionIPT102\Data\obj\Debug\refactor.xml
+D:\Mga sawi sa pag ibig\OfiangaSolutionIPT102\Data\obj\Debug\postdeploy.sql
+D:\Mga sawi sa pag ibig\OfiangaSolutionIPT102\Data\obj\Debug\predeploy.sql
+D:\Mga sawi sa pag ibig\OfiangaSolutionIPT102\Data\obj\Debug\Data.dll
+D:\Mga sawi sa pag ibig\OfiangaSolutionIPT102\Data\obj\Debug\Data.pdb
+C:\Users\nisil\Desktop\OfiangaSolutionIPT102\Data\bin\Debug\Data.dacpac
+C:\Users\nisil\Desktop\OfiangaSolutionIPT102\Data\bin\Debug\Data.dll
+C:\Users\nisil\Desktop\OfiangaSolutionIPT102\Data\bin\Debug\Data.pdb
+C:\Users\nisil\Desktop\OfiangaSolutionIPT102\Data\obj\Debug\Data.sqlproj.AssemblyReference.cache
+C:\Users\nisil\Desktop\OfiangaSolutionIPT102\Data\obj\Debug\Model.xml
+C:\Users\nisil\Desktop\OfiangaSolutionIPT102\Data\obj\Debug\refactor.xml
+C:\Users\nisil\Desktop\OfiangaSolutionIPT102\Data\obj\Debug\postdeploy.sql
+C:\Users\nisil\Desktop\OfiangaSolutionIPT102\Data\obj\Debug\predeploy.sql
+C:\Users\nisil\Desktop\OfiangaSolutionIPT102\Data\obj\Debug\Data.dll
+C:\Users\nisil\Desktop\OfiangaSolutionIPT102\Data\obj\Debug\Data.pdb

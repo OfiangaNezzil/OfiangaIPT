@@ -1,0 +1,23 @@
+D:\Mga sawi sa pag ibig\OfiangaSolutionIPT102\Domain\bin\Debug\net9.0\Domain.deps.json
+D:\Mga sawi sa pag ibig\OfiangaSolutionIPT102\Domain\bin\Debug\net9.0\Domain.dll
+D:\Mga sawi sa pag ibig\OfiangaSolutionIPT102\Domain\bin\Debug\net9.0\Domain.pdb
+D:\Mga sawi sa pag ibig\OfiangaSolutionIPT102\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mga sawi sa pag ibig\OfiangaSolutionIPT102\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+D:\Mga sawi sa pag ibig\OfiangaSolutionIPT102\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+D:\Mga sawi sa pag ibig\OfiangaSolutionIPT102\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+D:\Mga sawi sa pag ibig\OfiangaSolutionIPT102\Domain\obj\Debug\net9.0\Domain.dll
+D:\Mga sawi sa pag ibig\OfiangaSolutionIPT102\Domain\obj\Debug\net9.0\refint\Domain.dll
+D:\Mga sawi sa pag ibig\OfiangaSolutionIPT102\Domain\obj\Debug\net9.0\Domain.pdb
+D:\Mga sawi sa pag ibig\OfiangaSolutionIPT102\Domain\obj\Debug\net9.0\ref\Domain.dll
+C:\Users\nisil\Desktop\OfiangaSolutionIPT102\Domain\bin\Debug\net9.0\Domain.deps.json
+C:\Users\nisil\Desktop\OfiangaSolutionIPT102\Domain\bin\Debug\net9.0\Domain.dll
+C:\Users\nisil\Desktop\OfiangaSolutionIPT102\Domain\bin\Debug\net9.0\Domain.pdb
+C:\Users\nisil\Desktop\OfiangaSolutionIPT102\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nisil\Desktop\OfiangaSolutionIPT102\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+C:\Users\nisil\Desktop\OfiangaSolutionIPT102\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+C:\Users\nisil\Desktop\OfiangaSolutionIPT102\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\nisil\Desktop\OfiangaSolutionIPT102\Domain\obj\Debug\net9.0\Domain.sourcelink.json
+C:\Users\nisil\Desktop\OfiangaSolutionIPT102\Domain\obj\Debug\net9.0\Domain.dll
+C:\Users\nisil\Desktop\OfiangaSolutionIPT102\Domain\obj\Debug\net9.0\refint\Domain.dll
+C:\Users\nisil\Desktop\OfiangaSolutionIPT102\Domain\obj\Debug\net9.0\Domain.pdb
+C:\Users\nisil\Desktop\OfiangaSolutionIPT102\Domain\obj\Debug\net9.0\ref\Domain.dll

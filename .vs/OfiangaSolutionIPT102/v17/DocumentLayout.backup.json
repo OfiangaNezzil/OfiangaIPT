@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nisil\\Desktop\\OfiangaSolutionIPT102\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB09946B-15BA-4B82-9F3F-83464DCE22DC}|LaundryManagement\\LaundryManagement.csproj|c:\\users\\nisil\\desktop\\ofiangasolutionipt102\\laundrymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB09946B-15BA-4B82-9F3F-83464DCE22DC}|LaundryManagement\\LaundryManagement.csproj|solutionrelative:laundrymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFBF25DF-F519-4516-8DED-E4E6CEDAECA3}|Data\\Data.sqlproj|C:\\Users\\nisil\\Desktop\\OfiangaSolutionIPT102\\Data\\StoredProcedures\\GetAllOrders.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{EFBF25DF-F519-4516-8DED-E4E6CEDAECA3}|Data\\Data.sqlproj|solutionrelative:Data\\StoredProcedures\\GetAllOrders.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB09946B-15BA-4B82-9F3F-83464DCE22DC}|LaundryManagement\\LaundryManagement.csproj|c:\\users\\nisil\\desktop\\ofiangasolutionipt102\\laundrymanagement\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB09946B-15BA-4B82-9F3F-83464DCE22DC}|LaundryManagement\\LaundryManagement.csproj|solutionrelative:laundrymanagement\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Mga sawi sa pag ibig\\OfiangaSolutionIPT102\\LaundryManagement\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nisil\\Desktop\\OfiangaSolutionIPT102\\LaundryManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "LaundryManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\nisil\\Desktop\\OfiangaSolutionIPT102\\LaundryManagement\\appsettings.json*",
+              "RelativeToolTip": "LaundryManagement\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAADAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-04T02:03:48.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetAllOrders.sql",
+              "DocumentMoniker": "C:\\Users\\nisil\\Desktop\\OfiangaSolutionIPT102\\Data\\StoredProcedures\\GetAllOrders.sql",
+              "RelativeDocumentMoniker": "Data\\StoredProcedures\\GetAllOrders.sql",
+              "ToolTip": "C:\\Users\\nisil\\Desktop\\OfiangaSolutionIPT102\\Data\\StoredProcedures\\GetAllOrders.sql\r\n(localdb)\\ProjectModels.Data\r\n(ASUS-VIVOBOOK\\nisil)",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-04T02:03:42.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\nisil\\Desktop\\OfiangaSolutionIPT102\\LaundryManagement\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "LaundryManagement\\Commands\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\nisil\\Desktop\\OfiangaSolutionIPT102\\LaundryManagement\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "LaundryManagement\\Commands\\RelayCommand.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T02:02:25.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Mga sawi sa pag ibig\\OfiangaSolutionIPT102\\LaundryManagement\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Mga sawi sa pag ibig\\OfiangaSolutionIPT102\\LaundryManagement\\MainWindow.xaml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T03:05:58.388Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
